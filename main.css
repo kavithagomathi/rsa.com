@@ -24,13 +24,13 @@ body
 	border:#222 1px solid;
 	margin:0 auto;
 	padding:2px;
-	background: url(img/bg1.gif);
+	background: url(bg1.gif);
 }/*---body----*/
 #page
 {
 	background:#FFFFFF;
 	width:960px;
-	margin:0 auto;background:url(img/bg1.gif);
+	margin:0 auto;background:url(bg1.gif);
 	
 }/*----page----*/
 #top
@@ -115,7 +115,7 @@ font-weight:bold;
 	float:left;
 	width:745px;
 	padding-top:5px;
-	background:url(img/bg1.gif); repeat-x #FFFFFF;
+	background:url(bg1.gif); repeat-x #FFFFFF;
 	
 }
 #left sup
@@ -129,14 +129,14 @@ font-weight:bold;
 {
 font-family:CALIBRI;
 	font-size:0.90pc;
-	background:url(img/bg_p.gif) bottom  #FFF repeat-x;
+	background:url(bg_p.gif) bottom  #FFF repeat-x;
 	padding:0px 5px 30px 5px;
 }
 
 #left h2
 {
 	font-size:16px;
-	background:url(img/h2.gif) repeat-x;
+	background:url(h2.gif) repeat-x;
 	margin:0 auto;
 	color:#FFFFFF;
 	padding:2px 5px 0px 0px;
@@ -148,7 +148,7 @@ font-family:CALIBRI;
 
 #left h4
 {
-	background:url(img/h4.gif);
+	background:url(h4.gif);
 	border:#1e85ac solid 1px;
 	height:20px;
 	color:#DDD;
@@ -224,7 +224,7 @@ font-family:CALIBRI;
 }
 #past
 {
-	background:url(img/bg_past.gif) repeat-x;
+	background:url(bg_past.gif) repeat-x;
 	height:25px;
 }
 #past a
@@ -240,7 +240,7 @@ font-family:CALIBRI;
 }
 .past_active 
 {
-	background:url(img/past.gif) no-repeat #FFFFFF left top;}.past_active span{
+	background:url(past.gif) no-repeat #FFFFFF left top;}.past_active span{
 	color:#000;
 	height:25px;font-weight:bold;
 	}
@@ -295,7 +295,7 @@ font-family:CALIBRI;
 	{
 	float:right;
 	width:210px;padding-top:5px;
-	background:url(img/bg1.gif) repeat-x #FFFFFF;
+	background:url(bg1.gif) repeat-x #FFFFFF;
 }
 #right h5
 {
@@ -328,7 +328,7 @@ font-family:CALIBRI;
 	padding-top:15px;
 	font-family:Calibri;
 	font-size:14px;
-	background:url(img/r_menu_hover.gif) repeat-x;
+	background:url(r_menu_hover.gif) repeat-x;
 	color:#000;
 	text-align:center;
 
@@ -336,7 +336,7 @@ font-family:CALIBRI;
 	
 .menu_right ul li a:hover
 {
-background:url(img/active.gif) repeat-x;
+background:url(active.gif) repeat-x;
 color:#FFFFFF;
 }
 #id a
@@ -347,11 +347,11 @@ color:#FFFFFF;
 	display:block;
 	padding-top:15px;color:#FFFFFF;
 	text-align:center;
-	background:url(img/active.gif) repeat-x;
+	background:url(active.gif) repeat-x;
 }
 ul.right_ul li
 {
-	list-style:url(img/list.gif);
+	list-style:url(list.gif);
 	line-height:20px;
 
 }
@@ -365,7 +365,7 @@ ul.right_ul li a
 #right h2
 {
 	font-size:16px;
-	background:url(htimg/h2.gif) repeat-x;
+	background:url(h2.gif) repeat-x;
 	margin:0 auto;
 	color:#FFFFFF;
 	padding:2px 5px 0px 0px;
@@ -424,7 +424,7 @@ ul.right_ul li a
 
 .new_conf
 {
-	background:url(img/bg_p.gif) bottom right repeat-x #FFF;
+	background:url(bg_p.gif) bottom right repeat-x #FFF;
 	padding:0px 2px 30px 0px;
 }
 .new_conf h3
@@ -463,7 +463,7 @@ font-family:CALIBRIB;
 {
 	margin:0 auto;
 	clear:both;
-	background:url(img/footer.gif) no-repeat;
+	background:url(footer.gif) no-repeat;
 	height:60px;
 }
 .F_menu a
